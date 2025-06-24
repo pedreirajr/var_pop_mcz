@@ -52,19 +52,3 @@ Tons de vermelho indicam redução.
 Tons de azul indicam aumento.
 
 
-## 📁 Estrutura de Diretórios
-
-.
-├── data/
-│   ├── grade_id58_2010.zip   # (removido após extração)
-│   └── grade_id58_2022.zip   # (removido após extração)
-├── data/ge_shp/
-│   ├── 2010/                 # Arquivos .shp do Censo 2010
-│   └── 2022/                 # Arquivos .shp do Censo 2022
-├── script.R                  # Script principal com todo o processo
-└── README.md                 # Este arquivo
-
-
-
-
-
