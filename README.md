@@ -1,6 +1,6 @@
 # 📊 Análise da Variação Populacional e Domiciliar em Maceió (2010–2022)
 
-Este repositório reúne o código e as instruções para baixar, processar e visualizar os dados da **Grade Estatística** do IBGE, com foco na cidade de **Maceió**, comparando os Censos Demográficos de 2010 e 2022. A análise é baseada em geoprocessamento das grades censitárias com base territorial hexagonal e visa identificar variações espaciais da população e do total de domicílios ocupados.
+Este repositório reúne o código e as instruções para baixar, processar e visualizar os dados da **Grade Estatística** do IBGE, com foco na cidade de **Maceió**, comparando os Censos Demográficos de 2010 e 2022. A análise é baseada em geoprocessamento das grades estatísticas e visa identificar variações espaciais da população e do total de domicílios permanentes ocupados.
 
 ---
 
@@ -34,7 +34,7 @@ Grade ID58 – Censo 2022
 
 Extração dos arquivos .shp e remoção dos arquivos .zip.
 
-Leitura das grades e do município de Maceió via geobr.
+Leitura do contorno do município de Maceió via geobr.
 
 ### Geoprocessamento:
 
